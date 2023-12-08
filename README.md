@@ -1,9 +1,10 @@
 # Work in Progress
-## Please come back later.
 
 # CHANGED
  Chlorophyll-a Homogenization and ANalysis for GrEenlanD
 
+CHANGED interpolates chlorophyll-a estimates from AquaMODIS and SeaWiFS to a standardized grid. 
+![CHANGED Pipeline](pipeline.png)
 
 To use CHANGED:
 1. Clone the repository. 
