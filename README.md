@@ -1,5 +1,5 @@
 # Work in Progress
-![](Characterizing the Response of Marine Primary Productivity to Greenland Ice Sheet Melt Final.png)
+![poster](poster.png)
 # CHANGED
 ## Chlorophyll-a Homogenization and ANalysis for GrEenlanD
 
