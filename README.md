@@ -4,7 +4,6 @@
 CHANGED interpolates chlorophyll-a estimates from AquaMODIS and SeaWiFS to a standardized grid. 
 ![CHANGED Pipeline](pipeline.png)
 
-# Work in Progress
 ![poster](poster.png)
 
 To use CHANGED:
