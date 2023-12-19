@@ -1,6 +1,5 @@
 # CHANGED
-## Chlorophyll-a Homogenization and ANalysis for GrEenlanD
-Code used for AGU Poster
+## Chlorophyll-a Homogenization and ANalysis for GrEenlanD (AGU poster)
 ![poster](poster.png)
 
 
